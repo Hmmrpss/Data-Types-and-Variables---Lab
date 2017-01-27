@@ -1,1 +1,1 @@
-# Lab: Data Types and Variables 18.01.2017
+# Data Types and Variables - Lab 18.01.2017
